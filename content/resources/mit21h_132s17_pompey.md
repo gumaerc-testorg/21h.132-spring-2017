@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-132-the-ancient-world-rome-spring-2017/f21f348b51fdb4d6595d14a88a8f7ec4_MIT21H_132S17_Pompey.pdf
+file: /media/courses/21h-132-the-ancient-world-rome-spring-2017/f21f348b51fdb4d6595d14a88a8f7ec4_MIT21H_132S17_Pompey.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: Pompey and the Special
   Command'

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-132-the-ancient-world-rome-spring-2017/311a090c3bc665892c70a209ff57098f_MIT21H_132S17_HighPolitic2.pdf
+file: /media/courses/21h-132-the-ancient-world-rome-spring-2017/311a090c3bc665892c70a209ff57098f_MIT21H_132S17_HighPolitic2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: High Politics - From
   the Flavians to the Severans'

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-132-the-ancient-world-rome-spring-2017/eb6a2e0071d8eff05c8456fcb380b67e_MIT21H_132S17_CrisisRecvry.pdf
+file: /media/courses/21h-132-the-ancient-world-rome-spring-2017/eb6a2e0071d8eff05c8456fcb380b67e_MIT21H_132S17_CrisisRecvry.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: Crisis and Recovery -
   From Severan Dynasty to Later Roman Empire'
