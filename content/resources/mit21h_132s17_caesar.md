@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 71d84178-cb81-565a-fb72-896685022491
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: Ceasar Dictator'
 uid: 22116124-c081-ea92-ac77-1f75ba53c9de

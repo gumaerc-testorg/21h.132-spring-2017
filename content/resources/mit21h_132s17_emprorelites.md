@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 71d84178-cb81-565a-fb72-896685022491
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: The Emperor and the Elites'
 uid: d179cf05-c5b0-546d-6e60-c5681c1244cb

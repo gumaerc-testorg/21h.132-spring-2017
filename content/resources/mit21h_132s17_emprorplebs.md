@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 71d84178-cb81-565a-fb72-896685022491
 resourcetype: Document
 title: '21H.132S17 The Ancient World: Rome - Lecture Slides: The Emperor and the Plebs'
 uid: 289ea9c5-055c-d1d6-4f86-50718a0d63a1
