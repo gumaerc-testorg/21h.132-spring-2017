@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +36,7 @@ Suetonius. _Lives of the Caesars_. Translated with an Introduction and Notes by 
 
 Tacitus. _The Annals_. Translated, with Introduction and Notes, by A.J. Woodman. Hackett Publishing Company, Inc., 2004. ISBN: 9780872205581. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 51f735ac-8c2c-ecfe-c956-0abad555a549 "Readings" %}} section.
 
 Online Resources
 ----------------
@@ -118,4 +119,4 @@ Final Exam
 
 {{< tableclose >}}
 
-For further detail on the papers, see the [Assignments]({{< baseurl >}}/pages/assignments) section. For further detail on the final exam, see the [Exams]({{< baseurl >}}/pages/studymaterials) section.
+For further detail on the papers, see the {{% resource_link 92ed03f4-ac78-0804-719a-106c33b18018 "Assignments" %}} section. For further detail on the final exam, see the {{% resource_link a78b49df-d3ea-0bf3-b227-8d62f42de555 "Exams" %}} section.

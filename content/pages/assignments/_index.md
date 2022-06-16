@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,7 +12,7 @@ There are FOUR required writing assignments for this subject, which account for 
 
 For suggested topics for Papers #1, #2, and #3, click on the designated links.
 
-Also see [Criteria & Guidelines for Papers]({{< baseurl >}}/pages/assignments/criteria-guidelines-for-papers).
+Also see {{% resource_link 9063d62b-9aa1-2b0a-1af0-a9513892453e "Criteria & Guidelines for Papers" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -31,7 +32,7 @@ PERCENTAGES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper #1]({{< baseurl >}}/pages/assignments/paper-1) (1,500 words)
+{{% resource_link 9304597a-9612-3cee-baf2-e092268c98eb "Paper #1" %}} (1,500 words)
 {{< tdclose >}}
 {{< tdopen >}}
 Session 6
@@ -43,7 +44,7 @@ Session 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper #2]({{< baseurl >}}/pages/assignments/paper-2) (1,500 words)
+{{% resource_link 87861921-e77c-53b2-7a2f-421288527df5 "Paper #2" %}} (1,500 words)
 {{< tdclose >}}
 {{< tdopen >}}
 Session 12
@@ -73,7 +74,7 @@ Session 18
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper #3]({{< baseurl >}}/pages/assignments/paper-3) (1,500 words)
+{{% resource_link 0b6a9bad-19cb-a069-a915-9b14a8c0beff "Paper #3" %}} (1,500 words)
 {{< tdclose >}}
 {{< tdopen >}}
 Session 24

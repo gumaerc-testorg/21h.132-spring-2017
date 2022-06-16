@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the criteria and guidelines for a successful paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

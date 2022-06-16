@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes terms to be used for final exam preparation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

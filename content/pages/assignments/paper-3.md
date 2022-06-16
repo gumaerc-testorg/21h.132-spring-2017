@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains the topics for Paper #3.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

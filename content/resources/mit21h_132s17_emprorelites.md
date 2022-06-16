@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-132-the-ancient-world-rome-spring-2017/d179cf05c5b0546d6e60c5681c1244cb_MIT21H_132S17_EmprorElites.pdf
+file: /courses/21h-132-the-ancient-world-rome-spring-2017/d179cf05c5b0546d6e60c5681c1244cb_MIT21H_132S17_EmprorElites.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
