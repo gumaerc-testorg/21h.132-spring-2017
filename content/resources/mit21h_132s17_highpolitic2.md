@@ -5,6 +5,7 @@ file: /courses/21h-132-the-ancient-world-rome-spring-2017/311a090c3bc665892c70a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
