@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the criteria and guidelines for a successful paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 92ed03f4-ac78-0804-719a-106c33b18018
 title: Criteria & Guidelines for Papers
 uid: 9063d62b-9aa1-2b0a-1af0-a9513892453e
@@ -24,11 +29,11 @@ _Referencing and Bibliography_
 
 You must always acknowledge your sources. **Please note:** Every time you quote directly from a source, or paraphrase a source, or even simply refer to a source, you must provide a full citation.
 
-Since your papers are intended to be written largely on the basis of your reading of the ancient sources, your references will most frequently be to the likes of Livy or Plutarch. It is conventional in the field of ancient history to cite ancient authors either in the text of an essay (so, for example: “Livy here suggests…….(Livy 1.4)” _or_ “Plutarch records that…….(Plut., _Sull._ 20)”) or in footnotes, like so.1 It is also conventional to refer to ancient sources by their book, chapter, and/or section numbers and _not_ by the page number of your modern translation into English. **Since your paper should include an abundance of ancient evidence in support of your argument, there should be many such citations along the way.** Should you choose to consult modern sources in addition to ancient, you must be sure to provide full references here also. Such references should be provided in footnotes: for example, a reference to content on page 54 of the _Romans_ textbook would appear like so.2
+Since your papers are intended to be written largely on the basis of your reading of the ancient sources, your references will most frequently be to the likes of Livy or Plutarch. It is conventional in the field of ancient history to cite ancient authors either in the text of an essay (so, for example: “Livy here suggests…….(Livy 1.4)” _or_ “Plutarch records that…….(Plut., _Sull._ 20)”) or in footnotes, like so.{{< sup "1" >}} It is also conventional to refer to ancient sources by their book, chapter, and/or section numbers and _not_ by the page number of your modern translation into English. **Since your paper should include an abundance of ancient evidence in support of your argument, there should be many such citations along the way.** Should you choose to consult modern sources in addition to ancient, you must be sure to provide full references here also. Such references should be provided in footnotes: for example, a reference to content on page 54 of the _Romans_ textbook would appear like so.{{< sup "2" >}}
 
-1 Livy 1.4; Plut., Sull. 20.
+{{< sup "1" >}} Livy 1.4; Plut., Sull. 20.
 
-2 Boatwright et al. (2012) 54.
+{{< sup "2" >}} Boatwright et al. (2012) 54.
 
 _Formal Presentation_
 

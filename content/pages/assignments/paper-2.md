@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains topics for Paper #2.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 92ed03f4-ac78-0804-719a-106c33b18018
 title: 'Paper #2'
 uid: 87861921-e77c-53b2-7a2f-421288527df5
