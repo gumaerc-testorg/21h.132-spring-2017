@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-132-the-ancient-world-rome-spring-2017/a934ee6a5828ca47d849bdf0956d2329_MIT21H_132S17_CivilWar.pdf
+file_size: 1533268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
