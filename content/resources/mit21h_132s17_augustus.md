@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-132-the-ancient-world-rome-spring-2017/6b4109c5de92581e11413bc44b1622a4_MIT21H_132S17_Augustus.pdf
+file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/6b4109c5de92581e11413bc44b1622a4_MIT21H_132S17_Augustus.pdf
 file_size: 1242511
 file_type: application/pdf
 learning_resource_types:
