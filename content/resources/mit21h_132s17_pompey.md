@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-132-the-ancient-world-rome-spring-2017/f21f348b51fdb4d6595d14a88a8f7ec4_MIT21H_132S17_Pompey.pdf
+file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/f21f348b51fdb4d6595d14a88a8f7ec4_MIT21H_132S17_Pompey.pdf
 file_size: 1199528
 file_type: application/pdf
 learning_resource_types:
