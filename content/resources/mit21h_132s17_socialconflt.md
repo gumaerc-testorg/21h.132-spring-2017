@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/d6a38da5c887dbe945b80e94b868d578_MIT21H_132S17_SocialConflt.pdf
+file: /courses/21h-132-the-ancient-world-rome-spring-2017/d6a38da5c887dbe945b80e94b868d578_MIT21H_132S17_SocialConflt.pdf
 file_size: 2063787
 file_type: application/pdf
 learning_resource_types:
