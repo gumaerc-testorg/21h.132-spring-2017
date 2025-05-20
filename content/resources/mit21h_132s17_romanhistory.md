@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding ''The Ancient World: Rome''
   - lecture slides: The End of the Roman History.'
-file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/00b6b98a221ed7ac54b077156e13d087_MIT21H_132S17_RomanHistory.pdf
+file: /courses/21h-132-the-ancient-world-rome-spring-2017/00b6b98a221ed7ac54b077156e13d087_MIT21H_132S17_RomanHistory.pdf
 file_size: 1254987
 file_type: application/pdf
 learning_resource_types:

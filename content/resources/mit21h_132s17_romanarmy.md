@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/705d93cc8cfeafa99418cb2756447188_MIT21H_132S17_RomanArmy.pdf
+file: /courses/21h-132-the-ancient-world-rome-spring-2017/705d93cc8cfeafa99418cb2756447188_MIT21H_132S17_RomanArmy.pdf
 file_size: 1876167
 file_type: application/pdf
 learning_resource_types:

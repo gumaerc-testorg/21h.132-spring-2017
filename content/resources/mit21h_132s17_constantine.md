@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding ''The Ancient World: Rome''
   - lecture slides: Constantine: The Empire and the Church.'
-file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/031585ab5456af48309d566f52f2a48c_MIT21H_132S17_Constantine.pdf
+file: /courses/21h-132-the-ancient-world-rome-spring-2017/031585ab5456af48309d566f52f2a48c_MIT21H_132S17_Constantine.pdf
 file_size: 1114219
 file_type: application/pdf
 learning_resource_types:
