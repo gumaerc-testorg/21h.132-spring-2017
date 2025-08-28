@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-132-the-ancient-world-rome-spring-2017/2e331ebd57d7a20f0eb1ab8e4e3cf6b2_MIT21H_132S17_FlavianRome.pdf
+file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/2e331ebd57d7a20f0eb1ab8e4e3cf6b2_MIT21H_132S17_FlavianRome.pdf
 file_size: 5869879
 file_type: application/pdf
 learning_resource_types:

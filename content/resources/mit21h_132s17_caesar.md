@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-132-the-ancient-world-rome-spring-2017/22116124c081ea92ac771f75ba53c9de_MIT21H_132S17_Caesar.pdf
+file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/22116124c081ea92ac771f75ba53c9de_MIT21H_132S17_Caesar.pdf
 file_size: 1039307
 file_type: application/pdf
 learning_resource_types:
