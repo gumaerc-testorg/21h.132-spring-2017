@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-132-the-ancient-world-rome-spring-2017/289ea9c5055cd1d64f8650718a0d63a1_MIT21H_132S17_EmprorPlebs.pdf
+file: /ol-ocw-studio-app/courses/21h-132-the-ancient-world-rome-spring-2017/289ea9c5055cd1d64f8650718a0d63a1_MIT21H_132S17_EmprorPlebs.pdf
 file_size: 1271735
 file_type: application/pdf
 learning_resource_types:
