@@ -12,17 +12,17 @@ uid: 51f735ac-8c2c-ecfe-c956-0abad555a549
 
 \[L\] = Livy. _The Rise of Rome: Books 1–5._ Translated with an Introduction and Notes by T.J. Luce. Oxford University Press, 2009. ISBN: 9780199540044. 
 
-\[LE\] = Lewis, Naphtali, and Meyer Reinhold, eds. _Roman Civilization: Selected Readings, Vol. 1: The Republic and the Augustan Age_. 3rd edition. Columbia University Press, 1990. ISBN: 9780231071314. \[Preview with [Google Books](https://books.google.com/books?id=nd7uttiF3PUC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[LE\] = Lewis, Naphtali, and Meyer Reinhold, eds. _Roman Civilization: Selected Readings, Vol. 1: The Republic and the Augustan Age_. 3rd edition. Columbia University Press, 1990. ISBN: 9780231071314. \[Preview with {{% resource_link "d682bb4a-e5ae-40e9-88f7-4718764f993e" "Google Books" %}}\]
 
-\[LEW\] = Lewis, Naphtali, and Meyer Reinhold, eds. _Roman Civilization: Selected Readings, Vol. 2: The Empire_. 3rd edition. Columbia University Press, 1990. ISBN: 9780231071338. \[Preview with [Google Books](https://books.google.com/books?id=G07okHErcacC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[LEW\] = Lewis, Naphtali, and Meyer Reinhold, eds. _Roman Civilization: Selected Readings, Vol. 2: The Empire_. 3rd edition. Columbia University Press, 1990. ISBN: 9780231071338. \[Preview with {{% resource_link "155d65a1-f335-4e3a-9715-469379f6e182" "Google Books" %}}\]
 
-\[P\] = Plutarch. _Roman Lives_. Translated by Robin Waterfield, with Introductions and Notes by Philip A. Stadter. Oxford University Press, 2009. ISBN: 9780199537389. \[Preview with [Google Books](https://books.google.com/books?id=Mr4UDAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[P\] = Plutarch. _Roman Lives_. Translated by Robin Waterfield, with Introductions and Notes by Philip A. Stadter. Oxford University Press, 2009. ISBN: 9780199537389. \[Preview with {{% resource_link "397ab951-44b3-48a2-93ab-0ad9616ecd44" "Google Books" %}}\]
 
 \[PO\] = Polybius. _The Rise of the Roman Empire_. Translated by ‎Ian Scott-Kilvert. Penguin Classics, 1980. ISBN: 9780140443622.
 
-\[S\] = Suetonius. _Lives of the Caesars_. Translated with an Introduction and Notes by Catharine Edwards. Oxford University Press, 2009. ISBN: 0199537569. \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[S\] = Suetonius. _Lives of the Caesars_. Translated with an Introduction and Notes by Catharine Edwards. Oxford University Press, 2009. ISBN: 0199537569. \[Preview with {{% resource_link "e16a4355-6e27-4cd1-a284-ca642e20a444" "Google Books" %}}\]
 
-\[T\] = Tacitus. _The Annals_. Translated, with Introduction and Notes, by A.J. Woodman. Hackett Publishing Company, Inc., 2004. ISBN: 9780872205581. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[T\] = Tacitus. _The Annals_. Translated, with Introduction and Notes, by A.J. Woodman. Hackett Publishing Company, Inc., 2004. ISBN: 9780872205581. \[Preview with {{% resource_link "40e4a66e-db9d-466e-80a9-72f505e7b6b3" "Google Books" %}}\]
 
 Note: In the table below, S = Class Session; R = Recitation
 
@@ -282,7 +282,7 @@ R5
 Plutarch on the Gracchi
 {{< tdclose >}}
 {{< tdopen >}}
-\[P\] "Tiberius and Gaius Gracchus." \[Preview with [Google Books](https://books.google.com/books?id=Mr4UDAAAQBAJ&pg=PA77=onepage#v=onepage&q&f=false)\]
+\[P\] "Tiberius and Gaius Gracchus." \[Preview with {{% resource_link "4fafc9b8-f826-4734-a4a3-8a5970c695ce" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ R6
 Plutarch’s Sulla
 {{< tdclose >}}
 {{< tdopen >}}
-\[P\] "Sulla." \[Preview with [Google Books](https://books.google.com/books?id=Mr4UDAAAQBAJ&pg=PA169=onepage#v=onepage&q&f=false)\]
+\[P\] "Sulla." \[Preview with {{% resource_link "98f91161-d8e4-402b-84e6-9cf4fbf2d0e4" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +410,7 @@ Augustus
 {{< tdopen >}}
 
 
-\[T\] 1.1–1.11, pp. 1–9. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[T\] 1.1–1.11, pp. 1–9. \[Preview with {{% resource_link "e619775c-f25c-4950-ae5c-041693d6591d" "Google Books" %}}\]
 
 Cooley, M.G.L., ed. "Res Gestae Divi Augusti (The Achievements of the Deified Augustus)." In _The Age of Augustus_. Translated by B.W.J.G. Wilson. London Association of Classical Teachers Occasional Research Series, 2003. ISBN: 9780903625302.
 
@@ -430,7 +430,7 @@ The Emperor and the Élites
 
 \[B\] Chapter 9: The Early Principate (AD 14–69): The Julio-Claudians, the Civil War of 68–69, and Life in the Early Empire, pp. 309–29. 
 
-\[T\] 12.64–13.58, pp. 242–74. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA242=onepage#v=onepage&q&f=false)\]
+\[T\] 12.64–13.58, pp. 242–74. \[Preview with {{% resource_link "da7327b5-8ed1-4f4b-8027-b6d053873c68" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -448,7 +448,7 @@ The Emperor and the Plebs
 
 \[B\] Chapter 10: Institutionalization of the Principate: Military Expansion and Its Limits, the Empire and the Provinces (69–138), pp. 374–88.
 
-\[T\] 14.1–14.65, pp. 275–306. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA275=onepage#v=onepage&q&f=false)\]
+\[T\] 14.1–14.65, pp. 275–306. \[Preview with {{% resource_link "b42ab525-3410-4d1f-9282-8abebbd9bedf" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -470,11 +470,11 @@ Tacitus’ Rome
 
 _Review_
 
-\[T\] 1.1–1.11, pp. 1–9. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[T\] 1.1–1.11, pp. 1–9. \[Preview with {{% resource_link "e619775c-f25c-4950-ae5c-041693d6591d" "Google Books" %}}\]
 
-\[T\] 12.64–13.58, pp. 242–74. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA242=onepage#v=onepage&q&f=false)\]
+\[T\] 12.64–13.58, pp. 242–74. \[Preview with {{% resource_link "da7327b5-8ed1-4f4b-8027-b6d053873c68" "Google Books" %}}\]
 
-\[T\] 14.1–14.65, pp. 275–306. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PA275=onepage#v=onepage&q&f=false)\]
+\[T\] 14.1–14.65, pp. 275–306. \[Preview with {{% resource_link "b42ab525-3410-4d1f-9282-8abebbd9bedf" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -488,7 +488,7 @@ S18
 High Politics: The Julio-Claudians to the Flavians
 {{< tdclose >}}
 {{< tdopen >}}
-\[S\] The Deified Augustus. \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PA43=onepage#v=onepage&q&f=false)\]
+\[S\] The Deified Augustus. \[Preview with {{% resource_link "674ac95d-82ae-42d5-9df4-14815134a7d9" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -506,7 +506,7 @@ Suetonius’ Imperial Portraits
 
 _Review_
 
-\[S\] The Deified Augustus. \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PA43=onepage#v=onepage&q&f=false)\]
+\[S\] The Deified Augustus. \[Preview with {{% resource_link "674ac95d-82ae-42d5-9df4-14815134a7d9" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -522,9 +522,9 @@ Flavian Rome
 {{< tdopen >}}
 
 
-\[S\] The Deified Vespasian. \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PA260=onepage#v=onepage&q&f=false)\]
+\[S\] The Deified Vespasian. \[Preview with {{% resource_link "95609f46-d7f6-42dd-a86d-d213e3a4f82b" "Google Books" %}}\]
 
-\[S\] The Deified Titus.  \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PA274=onepage#v=onepage&q&f=false)\]
+\[S\] The Deified Titus.  \[Preview with {{% resource_link "26cf521b-a9cb-4c40-a06f-b485181aa9f8" "Google Books" %}}\]
 
 \[S\] Domitian. 
 
@@ -542,9 +542,9 @@ Restoring Historical Artifacts
 {{< tdopen >}}
 
 
-Anderson, Sam. "[David’s Ankles: How Imperfections Could Bring Down the World's Most Perfect Statue](https://www.nytimes.com/2016/08/21/magazine/davids-ankles-how-imperfections-could-bring-down-the-worlds-most-perfect-statue.html)," _New York Times Magazine_, August 17, 2016.
+Anderson, Sam. "{{% resource_link "fc840637-f629-4f70-8a03-ca6b1903a5da" "David’s Ankles: How Imperfections Could Bring Down the World's Most Perfect Statue" %}}," _New York Times Magazine_, August 17, 2016.
 
-Burnett, D. Graham. "[Facing the Unknown](http://www.cabinetmagazine.org/issues/40/burnett.php)." _Cabinet_ 40, Winter 2010–2011.
+Burnett, D. Graham. "{{% resource_link "8ee552ae-d24f-4678-b9b0-d3a83bfd23c8" "Facing the Unknown" %}}." _Cabinet_ 40, Winter 2010–2011.
 
 
 {{< tdclose >}}
@@ -620,15 +620,15 @@ Roman Slavery
 {{< tdopen >}}
 
 
-Bradley, Keith. "The Slave Society of Rome." Chapter 2 in _Slavery and Society at Rome_. Cambridge University Press, 1994. ISBN: 9780521378871. \[Preview with [Google Books](https://books.google.com/books?id=xu3rkG9dVY8C&pg=PA10=onepage#v=onepage&q&f=false)\]
+Bradley, Keith. "The Slave Society of Rome." Chapter 2 in _Slavery and Society at Rome_. Cambridge University Press, 1994. ISBN: 9780521378871. \[Preview with {{% resource_link "51547121-58ee-4cbb-b82d-bc351ee03b8d" "Google Books" %}}\]
 
 _Slavery sources_
 
-\[LE\] Chapter 94: The Changing Economy.  \[Preview with [Google Books](https://books.google.com/books?id=nd7uttiF3PUC&pg=PA241=onepage#v=onepage&q&f=false)\]
+\[LE\] Chapter 94: The Changing Economy.  \[Preview with {{% resource_link "40acadeb-98f5-45e9-a077-2b21d29be08b" "Google Books" %}}\]
 
-\[LE\] Chapter 95: The Great Slave Uprisings. \[Preview with [Google Books](https://books.google.com/books?id=nd7uttiF3PUC&pg=PA245=onepage#v=onepage&q&f=false)\]
+\[LE\] Chapter 95: The Great Slave Uprisings. \[Preview with {{% resource_link "c1e9763b-6dff-4ab4-89fd-406ed40ba40d" "Google Books" %}}\]
 
-\[LE\] Chapter 166: Management of a Landed Estate. \[Preview with [Google Books](https://books.google.com/books?id=nd7uttiF3PUC&pg=PA474=onepage#v=onepage&q&f=false)\]
+\[LE\] Chapter 166: Management of a Landed Estate. \[Preview with {{% resource_link "9b06ad07-10e8-410e-be73-daba4948906c" "Google Books" %}}\]
 
 \[LE\] Chapter 205: Social Legislation: Restrictions on Manumission and Citizenship. 
 
@@ -654,7 +654,7 @@ S23
 Domestic Life in Imperial Rome
 {{< tdclose >}}
 {{< tdopen >}}
-Storey, Glenn R. "Housing and Domestic Architecture." Chapter 9 in _The Cambridge Companion to Ancient Rome_. Edited by Paul Erdkamp. Cambridge University Press, 2013. ISBN: 9780521720786. \[Preview with [Google Books](https://books.google.com/books?id=yaM0AAAAQBAJ&pg=PA151=onepage#v=onepage&q&f=false)\]
+Storey, Glenn R. "Housing and Domestic Architecture." Chapter 9 in _The Cambridge Companion to Ancient Rome_. Edited by Paul Erdkamp. Cambridge University Press, 2013. ISBN: 9780521720786. \[Preview with {{% resource_link "4ebd20f5-f6a8-4824-8f76-8ec04518def5" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -732,11 +732,11 @@ _The conversion of Constantine sources_
 
 _The 'official' version:_
 
-Eusebius Pamphilus of Cesarea. Book 1, Chapters 27 and 28 in _[The Life of the Blessed Emperor Constantine](https://sourcebooks.fordham.edu/basis/vita-constantine.asp)_. Translated by S. Bagster. Revised by Ernest Cushing Richardson. Fordham University.
+Eusebius Pamphilus of Cesarea. Book 1, Chapters 27 and 28 in _{{% resource_link "50eda7ca-2746-4697-8fa3-af398ae6b31d" "The Life of the Blessed Emperor Constantine" %}}_. Translated by S. Bagster. Revised by Ernest Cushing Richardson. Fordham University.
 
 _The opposition version:_ 
 
-Zozimus. Book 2, Chapters 29 and Chapter 30, Sections 1 and 2, in _[New History](http://www.livius.org/sources/content/zosimus/zosimus-new-history-2/)_. Livius.
+Zozimus. Book 2, Chapters 29 and Chapter 30, Sections 1 and 2, in _{{% resource_link "efbd7b6b-150f-4dd4-867c-c00af0626b21" "New History" %}}_. Livius.
 
 
 {{< tdclose >}}

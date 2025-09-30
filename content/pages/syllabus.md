@@ -30,22 +30,22 @@ _Ancient sources in translation_
 
 Livy. _The Rise of Rome: Books 1–5._ Translated with an Introduction and Notes by T.J. Luce. Oxford University Press, 2009. ISBN: 9780199540044.
 
-Plutarch. _Roman Lives_. Translated by Robin Waterfield, with Introductions and Notes by Philip A. Stadter. Oxford University Press, 2009. ISBN: 9780199537389. \[Preview with [Google Books](https://books.google.com/books?id=Mr4UDAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Plutarch. _Roman Lives_. Translated by Robin Waterfield, with Introductions and Notes by Philip A. Stadter. Oxford University Press, 2009. ISBN: 9780199537389. \[Preview with {{% resource_link "397ab951-44b3-48a2-93ab-0ad9616ecd44" "Google Books" %}}\]
 
-Suetonius. _Lives of the Caesars_. Translated with an Introduction and Notes by Catharine Edwards. Oxford University Press, 2009. ISBN: 0199537569. \[Preview with [Google Books](https://books.google.com/books?id=JsNxkG6Ai9sC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Suetonius. _Lives of the Caesars_. Translated with an Introduction and Notes by Catharine Edwards. Oxford University Press, 2009. ISBN: 0199537569. \[Preview with {{% resource_link "e16a4355-6e27-4cd1-a284-ca642e20a444" "Google Books" %}}\]
 
-Tacitus. _The Annals_. Translated, with Introduction and Notes, by A.J. Woodman. Hackett Publishing Company, Inc., 2004. ISBN: 9780872205581. \[Preview with [Google Books](https://books.google.com/books?id=-WFQCgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Tacitus. _The Annals_. Translated, with Introduction and Notes, by A.J. Woodman. Hackett Publishing Company, Inc., 2004. ISBN: 9780872205581. \[Preview with {{% resource_link "40e4a66e-db9d-466e-80a9-72f505e7b6b3" "Google Books" %}}\]
 
 For additional readings, see the {{% resource_link 51f735ac-8c2c-ecfe-c956-0abad555a549 "Readings" %}} section.
 
 Online Resources
 ----------------
 
-[The Oxford Classical Dictionary](http://classics.oxfordre.com/), a scholarly and authoritative encyclopedia of all things ancient Greek and Roman.
+{{% resource_link "0d059520-5fb6-4b67-bc9d-a44a3c193399" "The Oxford Classical Dictionary" %}}, a scholarly and authoritative encyclopedia of all things ancient Greek and Roman.
 
-[The Loeb Classical Library Online](https://www.loebclassics.com/). The LCL has for generations been the go-to collection for reading English translations of ancient texts alongside the original Greek or Latin. Some of the translations are now quite old and correspondingly stilted; but the collection is comprehensive and reliable.
+{{% resource_link "c621767b-f5b1-4795-9395-d718ad1bab61" "The Loeb Classical Library Online" %}}. The LCL has for generations been the go-to collection for reading English translations of ancient texts alongside the original Greek or Latin. Some of the translations are now quite old and correspondingly stilted; but the collection is comprehensive and reliable.
 
-[LacusCurtius](http://penelope.uchicago.edu/Thayer/E/Roman/home.html). Many of the same texts appear on the LCL site, but here in a format that some will find more user-friendly. Also includes collections of photos of Latin inscriptions and theatres _inter alia_.
+{{% resource_link "1a7fab05-3408-42d0-887c-83589fe4feaa" "LacusCurtius" %}}. Many of the same texts appear on the LCL site, but here in a format that some will find more user-friendly. Also includes collections of photos of Latin inscriptions and theatres _inter alia_.
 
 Assessment
 ----------
